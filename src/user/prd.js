@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 function Pre() {
 
   useEffect(() => {
-    window.location.href = "http://127.0.0.1:5500/lcodev/projfrontend/public/pd/index.html";
+    window.location.href = "https://lkzbod.csb.app/";
   }, []);
 
   return (
